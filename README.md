@@ -1,6 +1,9 @@
 # Module_5_Challenge
 Pymaceuticals, Inc. - Tables and figures needed for the technical report of the clinical study and a top-level summary of the results.
 
+Link to repo: https://github.com/CesarLunaJr/Module_5_Challenge.git
+Script can be found in the following file: pymaceutical_script.ipynb
+
 Analysis:
 
 In the summary statistics ramicane, capomulin, ceftamin, and infubinol had the smallest tumor volume standard error, respectively. This made these drugs the optimal choices to further drill down upon and investigate drug efficacy.
